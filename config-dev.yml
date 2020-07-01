@@ -1,2 +1,2 @@
-server:
-  port: 1122
+config:
+  info: master branch,dev profile,version=2
